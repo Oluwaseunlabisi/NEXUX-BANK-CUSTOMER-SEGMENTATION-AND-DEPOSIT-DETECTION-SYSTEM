@@ -11,21 +11,37 @@ Nexux bank has conducted campaigns with the goal of acquiring deposits. In the l
 
 ## Data Dictionary
 • Age: This refers to the age of the customer who holds the bank account.
+
 • Job: This feature indicates the type of job that the customer has.
+
 • Marital: This feature indicates the marital status of the customer, which could be "married", "divorced", or "single".
+
 • Education: This refers to the education level of the customer, which could be "primary", "secondary", or "tertiary."
+
 • Default: This feature indicates whether the customer has previously defaulted on a loan or credit card payment, which could be "yes" or "no".
+
 • Balance: This feature represents the current balance in the customer's account.
+
 • Housing: This feature indicates whether the customer has a housing loan or not, which could be "yes" or "no."
+
 • Loan: This feature indicates whether the customer has a personal loan or not, which could be "yes" or "no."
+
 • Contact: This feature indicates the method of contact used to reach out to the customer, which could be "cellular", "telephone", or "unknown".
+
 • Day: This feature represents the day of the month when the customer was last contacted.
+
 • Month: This feature represents the month of the year when the customer was last contacted.
+
 • Duration: This feature represents the duration of the last contact with the customer, in seconds.
+
 • Campaign: This feature represents the number of contacts made to the customer during this campaign.
+
 • Pdays: This feature represents the number of days that passed by after the customer was last contacted from a previous campaign.
+
 • Previous: This feature represents the number of contacts made to the customer before this campaign.
+
 • Poutcome: This feature indicates the outcome of the previous marketing campaign, which could be "success", "failure", or "unknown".
+
 • Deposit: This feature indicates whether the customer has subscribed to a term deposit, which could be "yes" or "no".
 
 ## Methodology
